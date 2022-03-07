@@ -1,14 +1,12 @@
 # Disaster Response Pipeline Project
 
-
-## Prerequisites
 ### Libraries
-In order to use this model flowlesly you need to instakl the required librarier. Run the below code to install the related libraries
+In order to use this model flowlesly you need to install the required libraries. Run the below code to install the related libraries
 ```
 pip install -r requirements.txt
 ```
 ### Model
-In `train_classifier.py' file i used KNeighborsClassifier , you can try different classifeirs to increase the accuracy.
+In `train_classifier.py' file i used KNeighborsClassifier , you can try different classifiers to increase the accuracy.
 
 ---
 
