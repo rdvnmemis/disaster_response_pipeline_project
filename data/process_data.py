@@ -3,7 +3,7 @@ import sys
 from sqlalchemy import create_engine
 import pandas as pd
 
-
+# loads the data in csv files and merge thm to create input file
 def load_data(messages_filepath, categories_filepath):
     """Read messages and categories data and merge it into one dataframe"""
 
