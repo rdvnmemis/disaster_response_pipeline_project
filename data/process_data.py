@@ -16,6 +16,7 @@ def load_data(messages_filepath, categories_filepath):
     return df
 
 
+# deletes the duclicates and fine tune the input file
 def clean_data(df):
     """Clean the merged dataframe to make it ready to analyze"""
 
